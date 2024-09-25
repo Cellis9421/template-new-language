@@ -2,7 +2,7 @@
 A git repository template for exploring languages
 
 ## Directory Structure
-
+0. - [x] Create a new repository
 1. - [ ] [basics](./basics/README.md)
 2. - [ ] [standard-library](./standard-library/README.md)
 3. - [ ] [data-structures](./data-structures/README.md)

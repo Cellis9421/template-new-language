@@ -17,5 +17,3 @@ A git repository template for exploring languages
 12. - [ ] [concurrency](./concurrency/README.md)
 13. - [ ] [containerization](./containerization/README.md)
 14. - [ ] [project-examples](./project-examples/README.md)
-
-~~15. - [ ] [unavailable-features](./unavailable-features/README.md)~~

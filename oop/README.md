@@ -37,3 +37,5 @@ OOP is a programming paradigm based on the concept of "objects". Key concepts in
 
 12. Design Patterns
     - Reusable solutions to common problems in software design.
+
+[Back to index](../README.md)

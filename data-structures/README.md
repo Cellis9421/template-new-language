@@ -37,3 +37,5 @@ Data structures are fundamental components in programming, used to organize and 
 
 12. Disjoint Sets
     - Data structures for managing a collection of disjoint sets.
+
+[Back to index](../README.md)

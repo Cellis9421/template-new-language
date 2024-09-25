@@ -37,3 +37,5 @@ Algorithms are step-by-step procedures for solving problems or performing tasks.
 
 12. Approximation Algorithms
     - Algorithms finding approximate solutions to optimization problems.
+
+[Back to index](../README.md)

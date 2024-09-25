@@ -41,3 +41,5 @@ Functional programming is a programming paradigm that treats computation as the 
 
 12. Functors and Applicatives
     - Abstractions for applying functions over data structures.
+
+[Back to index](../README.md)

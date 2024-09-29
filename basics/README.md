@@ -4,28 +4,23 @@ The basics of programming in any language are the same and serve as the foundati
 
 Here are some of those building blocks:
 
-1. Hello World
-   - First program to print "Hello, World!"
+1. Environment Setup
+   - IDE, runtime, workspace, etc.
 
-2. Variables
-   - Containers for storing data values.
+2. Printing "Hello, World!"
+   - Printing text to the console, running the program.
 
 3. Data Types
-   - Different kinds of data (e.g., integers, floats, booleans).
+   - Constants/Variables,Boolean, Number, String, Array (fixed, dynamic length), Maps, Custom structs, etc.
 
 4. Operators
-   - Symbols for performing operations on variables and values.
+   - Assignment, Comparison, Arithmetic, Logical, Bitwise, etc.
 
-5. Control Structures
-   - Constructs controlling execution flow (e.g., if-else, loops).
+5. Functions
+   - Functions, Anonymous functions, Higher-order functions, etc.
 
-6. Functions
-   - Reusable code blocks performing specific tasks.
+6. Control Structures
+   - if-else, switch, loops, basic error handling, etc.
 
-7. Arrays
-   - Collections of same-type elements, indexed.
-
-8. Strings
-   - Character sequences and their operations.
 
 [Back to index](../README.md)
